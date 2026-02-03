@@ -13,7 +13,7 @@ Git/Github Learning summary
 
 GIT
 - Git clone - download repository locally
-- Git status - File changes 
+- Git status - Tracks File changes 
 - Git commit/add/push -  Upload changes
 
 Terminal
