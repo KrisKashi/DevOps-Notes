@@ -79,6 +79,8 @@ vi - enter file within terminal alternative to nano , need to type I first
  
 - Forgot to cd into file when committing this to github and ended up running git in my home directory, making all my personal files into a git repository
 
+- Didnt save file on vscode so committed blank text 
+
 fix : rm -rf .git in the location 
 
 
