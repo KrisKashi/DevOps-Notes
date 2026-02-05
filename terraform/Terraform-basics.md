@@ -43,18 +43,6 @@ changes - want to add more instances
 
 replicating infrastructure - happy with setup replicate to production, use other one for DEV/staging environment 
 
-
-How?
-
-2 input sources : TF-config, State
-
-Core - compares the two and figures out what needs to be done to achieve config 
-
-Providers : AWs,Azure etc [Iaas], Kubernetes (PAAS), Fastly (SaaS) over 100 providers 1000+ resources 
-
-exmaple : provider AWS, resource = aws_VPC 
-
-
 ## Commands 
 init - initialises terraform 
 Refresh - query infrastructure to get state 
